@@ -50,9 +50,7 @@ cd secret-message-decoder
 # Run the application
 python main.py
 
-```
 
-📁 Project Structure
 
 secret-message-decoder/
 │
@@ -263,3 +261,4 @@ GitHub: @nirab96Developer
 Special thanks to the course instructor and The College of Management for the opportunity to work on this project.
 
 © 2025 Nir Avitbul. All rights reserved.
+```
