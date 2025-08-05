@@ -1,0 +1,210 @@
+{
+  "timestamp": "2025-08-05T23:36:13.455306",
+  "analysis": {
+    "original_text": "﻿This is a secret message from the spy.",
+    "word_count": 8,
+    "character_count": 39,
+    "unique_characters": 18,
+    "longest_word": "message",
+    "shortest_word": "a",
+    "average_word_length": 4.0,
+    "vowel_percentage": 33.33333333333333,
+    "words_sorted_by_length": [
+      "a",
+      "is",
+      "the",
+      "from",
+      "spy.",
+      "﻿This",
+      "secret",
+      "message"
+    ],
+    "all_lowercase": true,
+    "any_word_longer_than_7": false,
+    "indexed_words": [
+      [
+        0,
+        "﻿This"
+      ],
+      [
+        1,
+        "is"
+      ],
+      [
+        2,
+        "a"
+      ],
+      [
+        3,
+        "secret"
+      ],
+      [
+        4,
+        "message"
+      ],
+      [
+        5,
+        "from"
+      ],
+      [
+        6,
+        "the"
+      ],
+      [
+        7,
+        "spy."
+      ]
+    ],
+    "word_length_pairs": [
+      [
+        "﻿This",
+        5
+      ],
+      [
+        "is",
+        2
+      ],
+      [
+        "a",
+        1
+      ],
+      [
+        "secret",
+        6
+      ],
+      [
+        "message",
+        7
+      ],
+      [
+        "from",
+        4
+      ],
+      [
+        "the",
+        3
+      ],
+      [
+        "spy.",
+        4
+      ]
+    ],
+    "word_length_distribution": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 2,
+      "5": 1,
+      "6": 1,
+      "7": 1
+    },
+    "unique_words_count": 8,
+    "most_common_word": [
+      "﻿this",
+      1
+    ],
+    "alphabetic_character_count": 30,
+    "digit_count": 0,
+    "punctuation_count": 1,
+    "words_starting_with_vowel": 2,
+    "palindrome_words": [],
+    "total_chars": 39,
+    "unique_words": 8,
+    "vowel_count": 9,
+    "letter_percentage": 76.92307692307693,
+    "digit_percentage": 0.0,
+    "space_percentage": 17.94871794871795,
+    "top_words": [
+      [
+        "﻿this",
+        1
+      ],
+      [
+        "is",
+        1
+      ],
+      [
+        "a",
+        1
+      ],
+      [
+        "secret",
+        1
+      ],
+      [
+        "message",
+        1
+      ],
+      [
+        "from",
+        1
+      ],
+      [
+        "the",
+        1
+      ],
+      [
+        "spy.",
+        1
+      ]
+    ],
+    "letter_frequency": [
+      [
+        "s",
+        6
+      ],
+      [
+        "e",
+        5
+      ],
+      [
+        "t",
+        3
+      ],
+      [
+        "h",
+        2
+      ],
+      [
+        "i",
+        2
+      ],
+      [
+        "a",
+        2
+      ],
+      [
+        "r",
+        2
+      ],
+      [
+        "m",
+        2
+      ],
+      [
+        "c",
+        1
+      ],
+      [
+        "g",
+        1
+      ],
+      [
+        "f",
+        1
+      ],
+      [
+        "o",
+        1
+      ],
+      [
+        "p",
+        1
+      ],
+      [
+        "y",
+        1
+      ]
+    ]
+  }
+}
